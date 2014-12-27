@@ -5668,7 +5668,7 @@
           <PlungeFeedrate state="Value">20</PlungeFeedrate>
           <CutFeedrate state="Value">40</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default">0,0,0</StartPoint>
+          <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Drill1</Name>
@@ -5683,7 +5683,7 @@
             <prim>931</prim>
             <prim>932</prim>
           </primitive>
-          <TargetDepth state="Value">-0.07</TargetDepth>
+          <TargetDepth state="Value">-0.075</TargetDepth>
           <DepthIncrement state="Default">0.015</DepthIncrement>
           <HoleDiameter state="Value">0.04</HoleDiameter>
           <DrillLeadOut state="Default">False</DrillLeadOut>
@@ -5705,7 +5705,7 @@
           <PlungeFeedrate state="Value">20</PlungeFeedrate>
           <CutFeedrate state="Value">40</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default">0,0,0</StartPoint>
+          <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Drill2</Name>
@@ -5719,7 +5719,7 @@
           <primitive>
             <prim>933</prim>
           </primitive>
-          <TargetDepth state="Value">-0.07</TargetDepth>
+          <TargetDepth state="Value">-0.075</TargetDepth>
           <DepthIncrement state="Default">0.015</DepthIncrement>
           <HoleDiameter state="Value">0.031</HoleDiameter>
           <DrillLeadOut state="Default">False</DrillLeadOut>
@@ -5755,7 +5755,7 @@
           <PlungeFeedrate state="Value">20</PlungeFeedrate>
           <CutFeedrate state="Value">40</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default">0,0,0</StartPoint>
+          <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Engrave1</Name>
